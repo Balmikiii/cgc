@@ -1,0 +1,62 @@
+body{
+    background-color: #777777;
+}
+p{
+    color: black;
+}
+
+.left .main-detail .iname{
+    width: 90%;
+}
+.left .main-detail .devide .iname{
+    width: 85%;
+}
+
+
+
+
+
+
+
+
+/* show information */
+.img-logo{
+    width: 66% !important;
+}
+.card-width{
+    /* width:750px */
+    width:662px
+}
+.stu-img {
+    width: 100%;
+    /* margin: 13px 0px 0px 13px !important; */
+}
+.right-detail{
+    padding: 0px;
+}
+.school-name{
+    background-color:#41b8e7;
+    width: 559px;
+}
+.school-name .lib{
+    background-color: aliceblue;
+    font-size: 20px;
+    /* font-size: 22px; */
+}
+.school-name p{
+    margin: 0px;
+    color: #41b8e7;
+}
+.school-name h1{
+    /* font-size: 41px; */
+    font-size: 38px;
+    color: #fff;
+    margin: 0px;
+}
+.school-name h4{
+    color: #fff;
+    margin: 0px;
+}
+.main-detail p{
+    margin: 0px;
+}
